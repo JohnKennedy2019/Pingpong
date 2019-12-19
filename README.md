@@ -1,2 +1,0 @@
-# Pingpong
-Pingpong game
